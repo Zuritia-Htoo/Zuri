@@ -10,7 +10,6 @@
 <body>
     <div class="container text-center" style="max-width: 600px">
         <h1 class="h3 my-4">Login</h1>
-        <h1 class="h3 my-4">Login</h1>
     
         <?php if(isset($_GET['incorrect'])); ?>
         <div class = "alert alert-warning">
